@@ -14,6 +14,7 @@ alias gca='git add . && git commit --amend --no-edit'
 alias gcd='~/.oh-my-zsh/plugins/rocket-git/gcd.sh'
 
 alias edital='nano ~/.oh-my-zsh/plugins/rocket-git/rocket-git.plugin.zsh'
+alias editalc='code ~/.oh-my-zsh/plugins/rocket-git'
 alias printal='cat -n ~/.oh-my-zsh/plugins/rocket-git/rocket-git.plugin.zsh'
 alias lint='npm run lint:err'
 alias getalupd='cd ~/.oh-my-zsh/plugins/rocket-git/ && gpl'
