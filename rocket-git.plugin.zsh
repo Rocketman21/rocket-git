@@ -21,7 +21,8 @@ alias grb="git rebase"
 alias grm="git rebase master"
 
 alias lint="npm run lint:err"
-alias dev="./server.sh stage316.s1"
+alias lintf="npm run lint:fix"
+alias dev="./server.sh stage12.s1"
 
 alias edital="nvim $ROCKET_GIT_PLUGIN"
 alias updateal="git -C $ROCKET_GIT_DIR pull && sourceal"
